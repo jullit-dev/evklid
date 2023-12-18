@@ -6,4 +6,4 @@
 * Flex
 * Библиотека accordion
 
-[Открыть сайт](https://jullit-dev.github.io/evklid)
+[Открыть сайт](https://jullit-dev.github.io/evklid-adaptive)
